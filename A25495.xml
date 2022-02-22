@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Answers for the African Company to the petition presented by Sir John Swinton</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25495</idno>
+            <idno type="STC">Wing A3277</idno>
+            <idno type="STC">ESTC R38498</idno>
+            <idno type="EEBO-CITATION">17513094</idno>
+            <idno type="OCLC">ocm 17513094</idno>
+            <idno type="VID">106531</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106531)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Answers for the African Company to the petition presented by Sir John Swinton</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Eclinburgh :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: creased, with some loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal African Company.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:106531:1" rendition="simple:additions"/>
+            <head>ANSWERS FOR The African Company To the Petition preſented by Sir <hi>John Swinton.</hi>
+            </head>
+            <p>Sir <hi>John,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <hi>Sw<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, &amp;c.</hi> (having been <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the firſt Fourth Part of the Money, Subſcribed) granted a Recept of 750 <hi>l.</hi> Sterline to the Lady <hi>Hoptoun</hi> and her Son on the 28 of <hi>February</hi> 1696,</p>
+            <p>This Money is not poſted in their Books as Caſh received, but in place thereof a Bond granted by Mr. <hi>Watſon</hi> (of a days date poſterior to the foreſaid Receipt) bearing to be for the Lady and her Sons ſhare ſubſcribed.</p>
+            <p>The Lords have found, all the Subſcribents of the Recept lyable <hi>in ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lidum,</hi> notwithſtanding that the Committee of Theſaury got up Mr. <hi>Watſons</hi> Bond with the reſt. And that twice, firſt in a purſuit againſt Mr. <hi>Blackwood,</hi> whereto Sir <hi>John</hi> was called; And now in the purſuit, directly againſt himſelf for the foreſaid 750 <hi>lib.</hi>
+            </p>
+            <p>Sir <hi>John</hi> reclaims on the ſame Grounds that were debate in preſence, craving, <hi>1mo.</hi> That he may not be ſound lyable <hi>in Solidum,</hi> but for his proper Fact. <hi>2do.</hi> At the leaſt, Mr. <hi>Blackwood</hi> ought to be firſt diſcuſſed, as having had a particular Adminiſtration <hi>3tio.</hi> That this purſuit being carried on upon Mr. <hi>Blackwoods</hi> Expenſes, it may be ſuſtained againſt him (as if it were in his own Name for Relief) that he being intruſted with blank Receipts, his giving one for Caſh, and not for a Bond, was his proper Deed. Or his not ſtating the Accompt fairly to the Company, and obtaining Exoneration from them thereon, was his own neglect.</p>
+            <p>It is Anſwered,</p>
+            <p>To the firſt, That it has been hitherto thought a principal, that Mandatars, e<g ref="char:EOLhyphen"/>ſpecially <hi>in facto preſtando;</hi> Or (as the Petition terms it) <hi>in individuo,</hi> are lyable <hi>in Solidum,</hi> which is ſo obvious, and was ſo by the common Law every where re<g ref="char:EOLhyphen"/>ceived. <hi>Lbo.</hi> § 3. <hi>ff. Mandat.</hi> That there needs no reaſoning on the head; eſpeci<g ref="char:EOLhyphen"/>ally in Favours of a publick Society, whoſe Managers might otherwiſe, ſend off ſome of their Number with the effects whereof thoſe who remain might par<g ref="char:EOLhyphen"/>take by conveyances legally undiſcoverable.</p>
+            <p>To the 2d. Its equally clear, that the Deed of Managers jointly truſted, divid<g ref="char:EOLhyphen"/>ing the Adminiſtration betwixt themſelves, can never alter the Condition of their Obligement to their Conſtitutes, who did not approve thereof. And thus it was, even in the <hi>Roman</hi> Law, when the Adminiſtration of the Tutory was not divided by the Deſunct who appointed them, or by a Judge. And ſeing the Petitioner re<g ref="char:EOLhyphen"/>quires a Deciſion, it is expreſly decided <hi>February</hi> 22 1634, <hi>Davidſon</hi> contra <hi>Jack,</hi> That two Tutors, both of them Subſcribing a Receipt jointly, the one was found lyable <hi>in Solidum,</hi> tho the other was the Purſuers Uncle. And my Lord <hi>Stair lib.</hi> 1 <hi>Tit.</hi> 6. N. 23. obſerves, That the order of diſcuſing the Tutor who did Adminiſtrat in the firſt place, does not obtain by our Cuſtom.</p>
+            <p>Nor ought it to be otherwiſe in Managers appointed by a publick Society, be cauſe the Reaſon is the ſame, or greater. For as the truſting one of the under Managers, is not the Deed of the firſt Conſtituents: So a party delegat, cannot
+<pb n="2" facs="tcp:106531:2"/>Subdelegat another; and ſuch under Managers <hi>ſeſe offerendo,</hi> did ſubject them<g ref="char:EOLhyphen"/>ſelves to the Hazard.</p>
+            <p>To the 3d, it is Anſwered,</p>
+            <p n="1">
+               <hi>1mo.</hi> That its not proven, if, or how far, the purſuit is to Mr. <hi>Blackwoods</hi> be<g ref="char:EOLhyphen"/>hoof. For there is a publick order of the Council-General to their Caſhier, for raiſing and inſiſting therein. But further,</p>
+            <p n="2">
+               <hi>2do. Et ſeparatim,</hi> Suppoſe it be offered to be proven, that this purſuit is for Mr. <hi>Blackwoods</hi> behoof, in whole or in part; yet there is nothing relevantly ſaid againſt him for excluding him from Relief, he alwiſe deducing his own ſhare. But on the contrair, its moſt juſt that Sir <hi>John</hi> ſhould bear his own part of the burden Becauſe,</p>
+            <p>In the firſt place, its not Relevant to alledge, That blank Receipts were in truſted to Mr. <hi>Blackwood,</hi> unleſs it be ſaid and proven that this w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> done at or be<g ref="char:EOLhyphen"/>fore the 28 of <hi>February</hi> 1696 (which was the date of the Receipt granted to the Lady <hi>Hopetoun</hi> and her Son) or that that particular Receipt was ſo intruſted, ei<g ref="char:EOLhyphen"/>ther of which would be moſt falſe.</p>
+            <p>For if all theſe under Managers acted jointly and promiſcuouſly (which is true, and preſumed to be ſo) at the beginning when Subſcribents came in throng with their ſhares: It is nothing to the purpoſe, albeit, Ten or Twelve Weeks there<g ref="char:EOLhyphen"/>after, Mr. <hi>Blackwood</hi> had attended beſt in the Office, when perhaps one or two would not come in in a whole day. And tho he had got ſome blank Receipts ſubſcribed by thoſe who went about their own Affairs while he waited the Drug<g ref="char:EOLhyphen"/>rie of the Office.</p>
+            <p>In the next place, Such a Truſt, even at or before the dare of the Receipt in Queſtion, is only probable by Write or Oath of Mr. <hi>Blackwood.</hi> For Sir <hi>Johns</hi> Ob<g ref="char:EOLhyphen"/>ligement ariſing from his Subſcription, being in Write, cannot be taken away any otherwiſe.</p>
+            <p>Eſpecially conſidering that the Suggeſt <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> againſt Mr. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>kwood,</hi> are unfair and Calumnious: It being moſt certain, that at that time Mr. <hi>Blackwood</hi> was not bound for Mr. <hi>Watſon,</hi> nor owing to Mr. <hi>Watſon</hi> one Sixpence; Whereas, on the contrair, Sir <hi>John</hi> was owing to Mr. <hi>Watſon</hi> above 40000 Merks; and in conſideration whereof Mr. <hi>Watſon</hi> can declare, that it was at Sir <hi>Johns</hi> particu<g ref="char:EOLhyphen"/>lar deſire that the Receipt was given, and the Bond taken, as aforeſaid.</p>
+            <p>In the 3d. place, Mr. <hi>Blackwood</hi> at Compting with the Committee of the Com<g ref="char:EOLhyphen"/>panys Treſaury, neither could have done, nor obtained any more then he did.</p>
+            <p>For clearing whereof, the Lords would be pleaſed to be informed, <hi>1mo.</hi> That Sir <hi>John</hi> was perſonally preſent in the Sederunt which appointed the Accompts of the Money and Bonds to be called for and taken in, ſo that he cannot pretend Ignorance thereof. <hi>2do.</hi> Tho <hi>Mr. Blackwood</hi> had Twenty times demanded it, yet neither the Committee of the Treaſury, no, nor the Directors would or could have taken Mr. <hi>Watſons</hi> Bond for Caſh. For this being the lending out of the Money actually received from one, not to himſelf (which even needed an order of the Council General) but to another third party, was not in the power, as not be<g ref="char:EOLhyphen"/>ing in the Inſtructions, or deſign of the Direction, ſo that Mr. <hi>Blackwood</hi> was in no neglect in omitting what was needleſs.</p>
+            <p>But the Company adheres to their Grounds in Law for making <hi>Swintoun</hi> lyable as well as Mr. <hi>Robert Blackwood:</hi> And what is further propo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, is only to evidence their impartiality in purſuing the one as well the other.</p>
+            <p>In reſpect whereof, the Lords ought to adhere ſimply to their former Interlo<g ref="char:EOLhyphen"/>cutor, ſo far as it ſhall not be proven that the Company hath received actual payment. As alſo adhere thereinto, even <hi>quoad</hi> the Remainder beyond Mr. <hi>Blackwoods</hi> own ſhare (which ſo far it is to his behoof he muſt deduce) in regard the Petitioner cannot prove <hi>ſcripto vel juramento,</hi> that Mr. <hi>Blackwoods</hi> Truſt from him was prior to the date of <hi>Hopetouns</hi> Receipt, and the offering a third Parties Bond for Money payed in by another, had been Fruſtraneous.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
